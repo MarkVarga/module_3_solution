@@ -1,0 +1,26 @@
+.container-fluid {
+    width: 98%;
+}
+
+#chicken {
+    background-color: bisque;
+    margin-top: 30px;
+}
+
+#chicken p {
+    padding-top: 20px;
+}
+
+li {
+    text-align: center;
+}
+
+.navbar-nav {
+    background-color: #c5c5c5;
+}
+
+@media (max-width:992px) {
+    .container-fluid {
+        width: 70%;
+    }
+}
